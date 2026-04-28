@@ -10,6 +10,51 @@
         "run_time": "every 1 hours",
         "minimum_reward": 1000000000000000000
       }
+    },
+    {
+      "name": "axone",
+      "address": "axonevaloper1q8pcju4sz0aamg4mf7mj2ap70a3fd89t28kq74",
+      "restake": {
+        "address": "axone1q8pcju4sz0aamg4mf7mj2ap70a3fd89t6j6jyh",
+        "run_time": "every 5 hours",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "shido",
+      "address": "shidovaloper1jmn9qrkf9tjwz2t5zvl068e6txhanztzj9yxsl",
+      "restake": {
+        "address": "shido1jmn9qrkf9tjwz2t5zvl068e6txhanztz20lw0l",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000000000000000000
+      }
+    },
+    {
+      "name": "atomone",
+      "address": "atonevaloper1e3vld469ekks28mhtd4aqua3mdaz64qgj2f8cj",
+      "restake": {
+        "address": "atone1e3vld469ekks28mhtd4aqua3mdaz64qgshzwj2",
+        "run_time": "every 5 minutes",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "paxi",
+      "address": "paxivaloper1ch74m9zzx82hssd6jg5l3dkdzhx76mljlh7uhz",
+      "restake": {
+        "address": "paxi1ch74m9zzx82hssd6jg5l3dkdzhx76mljle5jsx",
+        "run_time": "every 1 hours",
+        "minimum_reward": 10000
+      }
+    },
+    {
+      "name": "Stargaze",
+      "address": "starsvaloper1q8pcju4sz0aamg4mf7mj2ap70a3fd89txk4vqr",
+      "restake": {
+        "address": "stars1q8pcju4sz0aamg4mf7mj2ap70a3fd89tdgpcmm",
+        "run_time": "every 5 hours",
+        "minimum_reward": 10000
+      }
     }
   ]
 }
